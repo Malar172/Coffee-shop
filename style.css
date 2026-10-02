@@ -23,6 +23,7 @@ h1, h2, h3 {
     margin: auto;
 }
 /* Navbar */
+
 header {
     background: #4e342e;
     padding: 15px 0;
@@ -39,6 +40,15 @@ header {
     width: 50px;
     height: 50px;
     border-radius: 50%;
+}
+.logo{
+    text-align: center;
+}
+.logo p{
+ color:rgb(236, 174, 174);
+ margin-top:5px;
+ font-size:18px;
+ font-weight:bold;
 }
 .nav-links {
     display: flex;
