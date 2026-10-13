@@ -9,13 +9,12 @@ A responsive coffee shop website that presents the menu, a special offer, custom
 ## 📸 Screenshots
 
 ### Home Page
-<img src="home.png" alt="Home Page" width="100%" />
+<img src="homepage.png" alt="Home Page" width="100%" />
 
 ### Menu Section
-<img src="menu.png" alt="Menu Section" width="100%" />
+<img src="menupage.png" alt="Menu Section" width="100%" />
 
-### Contact Page
-<img src="contact.png" alt="Contact Page" width="100%" />
+
 
 ---
 
